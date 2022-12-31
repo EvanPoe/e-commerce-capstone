@@ -34,8 +34,3 @@ const CheckoutItem = ({ cartItem }) => {
 };
 
 export default CheckoutItem;
-
-//   <span onClick={() => removeItemFromCart(cartItem)}>
-//     decrement
-//   </span>
-//   <span onClick={() => addItemToCart(cartItem)}>increment</span>
