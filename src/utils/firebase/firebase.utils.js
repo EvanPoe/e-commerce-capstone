@@ -45,7 +45,7 @@ export const signInWithGoogleRedirect = () =>
 
 export const db = getFirestore();
 
-// for adding ojbect collections to DB
+// for adding object collections to DB
 export const addCollectionAndDocuments = async (
   collectionKey,
   objectsToAdd,
